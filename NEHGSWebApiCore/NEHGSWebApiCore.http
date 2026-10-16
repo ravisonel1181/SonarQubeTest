@@ -1,0 +1,6 @@
+@NEHGSWebApiCore_HostAddress = http://localhost:5030
+
+GET {{NEHGSWebApiCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,454 @@
+[
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "AddPassword",
+    "RelativePath": "api/Account/add-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NEHGSWebApiCore.Application.DTOs.AddPasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/Account/change-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NEHGSWebApiCore.Application.DTOs.ChangePasswordDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "Disassociate",
+    "RelativePath": "api/Account/disassociate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NEHGSWebApiCore.Application.DTOs.DisassociateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "ExternalLogin",
+    "RelativePath": "api/Account/external-login",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "provider",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "ExternalLoginCallback",
+    "RelativePath": "api/Account/external-login-callback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "ExternalLoginConfirmation",
+    "RelativePath": "api/Account/external-login-confirmation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NEHGSWebApiCore.Application.DTOs.ExternalLoginConfirmationDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "returnUrl",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "LinkLogin",
+    "RelativePath": "api/Account/link-login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "provider",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "LinkLoginCallback",
+    "RelativePath": "api/Account/link-login-callback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NEHGSWebApiCore.Application.DTOs.LoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "Logout",
+    "RelativePath": "api/Account/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "Manage",
+    "RelativePath": "api/Account/manage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "Register",
+    "RelativePath": "api/Account/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "NEHGSWebApiCore.Application.DTOs.RegisterDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.AccountController",
+    "Method": "RemoveAccountList",
+    "RelativePath": "api/Account/remove-account-list",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "ConfirmMap",
+    "RelativePath": "api/Import/confirm-map",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "NEHGSWebApiCore.Application.DTOs.MapRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "ErrorCheck",
+    "RelativePath": "api/Import/errorcheck",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "NEHGSWebApiCore.Application.DTOs.ErrorCheckRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "ErrorCheckResult",
+    "RelativePath": "api/Import/errorcheck-result/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Index",
+    "RelativePath": "api/Import/index",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Map",
+    "RelativePath": "api/Import/map",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "parentDirectory",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "csvOnly",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      },
+      {
+        "Name": "collectionid",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "csvmapping",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "MapPost",
+    "RelativePath": "api/Import/map",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "NEHGSWebApiCore.Application.DTOs.MapRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Mappings",
+    "RelativePath": "api/Import/mappings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Progress",
+    "RelativePath": "api/Import/progress",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "ProgressCheck",
+    "RelativePath": "api/Import/progress-check/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Roles",
+    "RelativePath": "api/Import/roles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "collectionId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "GetStatusMessage",
+    "RelativePath": "api/Import/status/{taskId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "TargetFields",
+    "RelativePath": "api/Import/target-fields",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Transfer",
+    "RelativePath": "api/Import/transfer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "TransferPost",
+    "RelativePath": "api/Import/transfer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "endId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "NEHGSWebApiCore.Api.Controllers.ImportController",
+    "Method": "Upload",
+    "RelativePath": "api/Import/upload",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taskId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "URL",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

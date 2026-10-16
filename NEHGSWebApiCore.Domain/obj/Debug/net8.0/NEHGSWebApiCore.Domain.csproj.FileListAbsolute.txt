@@ -1,0 +1,12 @@
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\bin\Debug\net8.0\NEHGSWebApiCore.Domain.deps.json
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\bin\Debug\net8.0\NEHGSWebApiCore.Domain.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\bin\Debug\net8.0\NEHGSWebApiCore.Domain.pdb
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.AssemblyInfoInputs.cache
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.AssemblyInfo.cs
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.csproj.CoreCompileInputs.cache
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\refint\NEHGSWebApiCore.Domain.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.pdb
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\ref\NEHGSWebApiCore.Domain.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Domain\obj\Debug\net8.0\NEHGSWebApiCore.Domain.csproj.AssemblyReference.cache

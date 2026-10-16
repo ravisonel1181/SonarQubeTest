@@ -1,0 +1,15 @@
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\bin\Debug\net8.0\NEHGSWebApiCore.Application.deps.json
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\bin\Debug\net8.0\NEHGSWebApiCore.Application.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\bin\Debug\net8.0\NEHGSWebApiCore.Application.pdb
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\bin\Debug\net8.0\NEHGSWebApiCore.Domain.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\bin\Debug\net8.0\NEHGSWebApiCore.Domain.pdb
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.csproj.AssemblyReference.cache
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.AssemblyInfoInputs.cache
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.AssemblyInfo.cs
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.csproj.CoreCompileInputs.cache
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWeb.E5E3CBF8.Up2Date
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\refint\NEHGSWebApiCore.Application.dll
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\NEHGSWebApiCore.Application.pdb
+D:\NEHGSWebApiCore\NEHGSWebApiCore.Application\obj\Debug\net8.0\ref\NEHGSWebApiCore.Application.dll
